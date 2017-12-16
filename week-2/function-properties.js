@@ -6,5 +6,5 @@ function dog() {
     return dog.bark
 }
 
-// output the results by calling the dog() function 
+// output the results by calling the dog() function
 console.log(dog());
