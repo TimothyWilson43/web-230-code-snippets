@@ -1,8 +1,8 @@
 // one dimensional array
-var fruits = ["apple", "orange", "banana", "mango"];
+var names = ["Steve", "John", "Chris", "Adam"];
 
 // function - two comma-separated list of identifiers
-function getFruit(arr, filterValue) {
+function getName(arr, filterValue) {
     for (var k = 0; k < arr.length; k++) {
         if (arr[k] === filterValue) {
             return arr[k];
@@ -11,9 +11,9 @@ function getFruit(arr, filterValue) {
 }
 
 // display the array's contents
-console.log("-- DISPLAYING FRUITS --");
-for (var j = 0; j < fruits.length; j++) {
-    console.log(fruits[j]);
+console.log("-- DISPLAYING NAMES --");
+for (var j = 0; j < names.length; j++) {
+    console.log(names[j]);
 }
 
 // new line
@@ -21,12 +21,12 @@ console.log("\n");
 
 // unit test
 console.log(" -- SELECTED VALUE --");
-console.log(getFruit(fruits, "apple"));
+console.log(getName(names, "John"));
 
 // new line
 console.log("\n");
 
 // unit test
 console.log(" -- SELECTED VALUE --");
-console.log(getFruit(fruits, "orange"));
+console.log(getName(names, "Adam"));
 
