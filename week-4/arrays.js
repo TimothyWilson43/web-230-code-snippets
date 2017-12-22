@@ -8,15 +8,15 @@ for (var x = 0; x < numbers.length; x++) {
 
 
 // new line
-console.log("\n"); 
+console.log("\n");
 
 // one dimensional array
 var names = ["Steve", "John", "Chris", "Adam"];
 
 // function - one identifier (array of values)
 function getNames(arr) {
-    for (var j = 0; j < names.length; j++) {
-        console.log(names[j]);
+    for (var j = 0; j < arr.length; j++) {
+        console.log(arr[j]);
     }
 }
 
