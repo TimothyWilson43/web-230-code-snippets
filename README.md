@@ -1,5 +1,7 @@
 # WEB 230/231 Enterprise JavaScript I 
-## Web Development [Degree](http://www.bellevue.edu/degrees/bachelor/web-development-bs/ "Designed by developers for developers."){:target="_blank"}
+## Web Development [Degree](http://www.bellevue.edu/degrees/bachelor/web-development-bs/ "Designed by developers for developers.")
+
+This is [a link](http://example.com){:target="_blank"} that opens in a new window.
 
 [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
