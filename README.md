@@ -4,7 +4,6 @@
 [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
 1000 Galvin Rd S
-
 Bellevue, Nebraska 68005
 
 ## Course Description
