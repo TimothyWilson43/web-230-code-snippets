@@ -2,7 +2,9 @@
 ## Web Development [Degree](http://http://www.bellevue.edu/degrees/bachelor/web-development-bs/ "Designed by developers for developers.")
 
 [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
+
 1000 Galvin Rd S
+
 Bellevue, Nebraska 68005
 
 ## Course Description
@@ -16,13 +18,12 @@ Prerequisite: WEB 200
 
 ## Repository Overview 
 
-Carefully read the assigned chapters, videos, and narrative I've included under each exercise and assignment.  Most exercises and assignments have runnable sample code
+Carefully read the assigned chapters, videos, and narrative I've included under each exercise and assignment.  
 
-so you can visually see the concept "in action."  Assignments are broken into "milestones" and each "milestone" builds on the last.  Approach every week from top-to-bottom and do 
+Most exercises and assignments have runnable sample code so you can visually see the concept "in action."  Assignments are broken into "milestones" and each "milestone" builds on the last.  
 
-not move to the next assignment/exericse without fully understanding the previous. 
+Approach every week from top-to-bottom and do not move to the next assignment/exericse without fully understanding the previous. 
 
-To clone the repository: 
 ```bash
 git clone https://github.com/rrkrasso/web-230-code-snippets.git
 cd web-230-code-snippets
