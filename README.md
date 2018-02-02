@@ -1,8 +1,6 @@
 # WEB 230/231 Enterprise JavaScript I 
 ## Web Development [Degree](http://www.bellevue.edu/degrees/bachelor/web-development-bs/ "Designed by developers for developers.")
 
-This is [a link](http://example.com){:target="_blank"} that opens in a new window.
-
 [Bellevue University](http://bellevue.edu "Bellevue University is a private, non-profit university located in Bellevue, Nebraska, United States.")
 
 Address: 1000 Galvin Rd S, Bellevue, Nebraska 68005 - [Directions](https://www.google.com/maps/dir/''/Bellevue+University/@41.1509562,-95.9896355,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x8793886a86ca807f:0x838e857240d175eb!2m2!1d-95.9195956!2d41.1509774 "Google maps")
